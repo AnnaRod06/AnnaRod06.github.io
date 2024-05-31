@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Physiological Signal web server</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
@@ -83,7 +84,7 @@
                 </tr>
             </thead>
             <tbody>
-                <!-- Datos se insertarï¿½n aquï¿½ -->
+                <!-- Datos se insertarán aquí -->
             </tbody>
         </table>
     </section>
@@ -94,11 +95,11 @@
                 <tr>
                     <th>Fecha</th>
                     <th>Hora</th>
-                    <th>Valor (Cï¿½)</th>
+                    <th>Valor (C°)</th>
                 </tr>
             </thead>
             <tbody>
-                <!-- Datos se insertarï¿½n aquï¿½ -->
+                <!-- Datos se insertarán aquí -->
             </tbody>
         </table>
     </section>
@@ -113,7 +114,7 @@
                 </tr>
             </thead>
             <tbody>
-                <!-- Datos se insertarï¿½n aquï¿½ -->
+                <!-- Datos se insertarán aquí -->
             </tbody>
         </table>
     </section>
